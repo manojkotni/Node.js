@@ -1,6 +1,6 @@
 change the default value
 npm config set <Key> <Value>
-npm config set init-author-email "tapas.adhikary@gail.com"
+npm config set init-author-email "manojkotini@gail.com"
 
 way to verify if you have set the values correctly. Please use 
 npm config get <Key> 
