@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "create-react-app": "^1.2.1"
+  },
+  "name": "mkotni",
+  "version": "1.0.0",
+  "main": ".mongorc.js",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
