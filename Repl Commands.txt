@@ -1,0 +1,30 @@
+Node.js REPL
+ 	The term REPL stands for Read Eval Print and Loop. 
+It specifies a computer environment like a window console
+where you can enter the commands and the system responds 
+with an output in an interactive mode
+
+Read: -> It reads user's input; parse the input into JavaScript 
+         data-structure and stores in memory.
+
+Eval: -> It takes and evaluates the data structure.
+Print:-> It prints the result.
+
+Loop: -> It loops the above command until user press ctrl-c twice.
+
+
+
+
+
+
+Commands	Description
+ctrl + c      ->  It is used to terminate the current command.
+ctrl + c twice->  It terminates the node repl.
+ctrl + d      ->  It terminates the node repl.
+up/down keys  ->  It is used to see command history and modify previous commands.
+tab keys      ->  It specifies the list of current command.
+.help	      ->  It specifies the list of all commands.
+.break	      ->  It is used to exit from multi-line expressions.
+.clear	      ->  It is used to exit from multi-line expressions.
+.save filename->  It saves current node repl session to a file.
+.load filename->  ŚIt is used to load file content in current node repl session.
