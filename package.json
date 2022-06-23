@@ -1,0 +1,19 @@
+{
+  "name": "npm1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mit",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "moment": "^2.29.3"
+  },
+  "devDependencies": {
+    "lodash": "^4.17.21"
+  },
+  "keywords": [],
+  "description": ""
+}
